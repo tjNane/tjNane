@@ -1,5 +1,3 @@
 
-<h1 align="center">Hi, I'm tjNane!</h1>
-
-
-<p align="center">❤ I'm currently working in China.</p>
+<h3>Hi, I'm tjNane!</h3>
+<p>❤ I'm currently working in China.</p>
